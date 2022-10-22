@@ -1,7 +1,10 @@
 package com.amigoscode;
 
+import java.awt.*;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println((2+2) * (3/1) * 2);
+       int age = 21;
+        Point pointA = new Point(10,10);
     }
 }
